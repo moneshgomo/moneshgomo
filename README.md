@@ -4,7 +4,7 @@
 - 🙂 Self-taught Programmer  
 - 🔭 I'm currently learning **Micorservice Architecture** & exploring **System Design**  
 - 🗨️ Ask me about **Backend Development** & **DevOps**  
-- 🚀 Looking for **Backend Development  Devops internships**  
+- 🚀 Looking for **Backend Development internships |  Devops internships**  
 - 💻 Backend Developer, 🚀 enhancing productivity by integrating **AI** into my workflow 
 - 😊 Curious to know more: [**My Portfolio 🌐**](https://moneshgomo.netlify.app/)
 
