@@ -2,9 +2,9 @@
 <h2>Hi there 👋, I'm Monesh Aspiring Software Engineer from India </h2>
 
 - 🙂 Self-taught Programmer  
-- 🔭 Currently learning **DSA** & exploring **System Design**  
+- 🔭 I'm currently learning **Micorservice Architecture** & exploring **System Design**  
 - 🗨️ Ask me about **Backend Development** & **DevOps**  
-- 🚀 Looking for **Backend Development internships**  
+- 🚀 Looking for **Backend Development  Devops internships**  
 - 💻 Backend Developer, 🚀 enhancing productivity by integrating **AI** into my workflow 
 - 😊 Curious to know more: [**My Portfolio 🌐**](https://moneshgomo.netlify.app/)
 
