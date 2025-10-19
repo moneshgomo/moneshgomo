@@ -42,10 +42,7 @@
   <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=notion" alt="Notion" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" width="50" height="50" />
-  <img width="50" height="50" alt="colab-color" src="https://github.com/user-attachments/assets/9567f09a-69a3-4155-8b4e-1a236cc46751" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render Badge" height="40" />
-</div>
-
+ 
 
 
 
