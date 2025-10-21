@@ -2,7 +2,7 @@
 <h2>Hi there 👋, I'm Monesh Aspiring Software Engineer from India </h2>
 
 - 🙂 Self-taught Programmer  
-- 🔭 I'm currently learning **Micorservice Architecture** & exploring **System Design**  
+- 🔭 I'm currently learning **Micorservice Architecture**  
 - 🗨️ Ask me about **Backend Development** & **DevOps**  
 - 🚀 Looking for **Backend Development internships |  Devops internships**  
 - 💻 Backend Developer, 🚀 enhancing productivity by integrating **AI** into my workflow 
