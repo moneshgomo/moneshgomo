@@ -1,12 +1,21 @@
 
 <h2>Hi there 👋, I'm Monesh Aspiring Software Engineer from India </h2>
 
+<img align="right" src="https://github.com/user-attachments/assets/996a6a54-00ec-4c15-8107-b7818721657d" width="250" height="500" alt="Monesh profile" />
+
+
+
+
+
 - 🙂 Self-taught Programmer  
 - 🔭 I'm currently learning **Micorservice Architecture**  
 - 🗨️ Ask me about **Backend Development** & **DevOps**  
 - 🚀 Looking for **Backend Development internships |  Devops internships**  
 - 💻 Backend Developer, 🚀 enhancing productivity by integrating **AI** into my workflow 
 - 😊 Curious to know more: [**My Portfolio 🌐**](https://moneshgomo.netlify.app/)
+
+
+
 
 ### Connect with Me
 <a href="https://www.linkedin.com/in/moneshgomo" target="_blank" rel="noopener noreferrer">
