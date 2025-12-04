@@ -8,7 +8,7 @@
 
 
 - 🙂 Self-taught Programmer  
-- 🔭 I'm currently learning **Micorservice Architecture**  
+- 🔭 I'm currently learning **DSA**  and **AWS**
 - 🗨️ Ask me about **Backend Development & Devops**  
 - 🚀 Looking for **collabrate with your Backend Development team**  
 - 💻 Backend Developer, 🚀 enhancing productivity by integrating **AI** into my workflow
