@@ -1,5 +1,5 @@
 
-<h2>Hi there 👋, I'm Monesh Aspiring Software Engineer from India </h2>
+<h2>Hi there 👋, I'm Monesh Aspiring SDE from India </h2>
 
 <img align="right" src="https://github.com/user-attachments/assets/996a6a54-00ec-4c15-8107-b7818721657d" width="250" height="500" alt="Monesh profile" />
 
