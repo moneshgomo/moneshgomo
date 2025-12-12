@@ -8,7 +8,7 @@
 
 
 - 🙂 Self-taught Programmer  
-- 🔭 I'm currently learning **Microservice**  and **Kubernetes**
+- 🔭 I’m currently learning **Microservices architecture** and **Kubernetes**.
 - 🗨️ Ask me about **Backend Development & Devops**  
 - 🚀 Looking for **collabrate with your Backend Development team**  
 - 💻 Backend Developer, 🚀 enhancing productivity by integrating **AI** into my workflow
