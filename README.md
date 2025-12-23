@@ -1,17 +1,24 @@
 
-<h2>Hi there 👋, I'm Monesh Aspiring SDE from India </h2>
+<h2>Hi there 👋, I'm Monesh Aspiring SWE </h2>
 
-<img align="right" src="https://github.com/user-attachments/assets/996a6a54-00ec-4c15-8107-b7818721657d" width="250" height="500" alt="Monesh profile" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=moneshgomo&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<!-- <img align="right" src="https://github.com/user-attachments/assets/996a6a54-00ec-4c15-8107-b7818721657d" width="250" height="500" alt="Monesh profile" /> -->
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="300px" alt="Coding GIF"/>
 
 
 
 
 
 - 🙂 Self-taught Programmer  
-- 🔭 I’m currently learning **Microservices architecture** and **Kubernetes**.
+- 🌱 Learning `Spring Boot` for Back-end Development.
 - 🗨️ Ask me about **Backend Development & Devops**  
 - 🚀 Looking for **collabrate with your Backend Development team**  
 - 💻 Backend Developer, 🚀 enhancing productivity by integrating **AI** into my workflow
+- 🧠 Passionate about **learning new technologies** and **creating impactful projects**.  
+- 🐼 Always striving to be the best version of myself.  
 - 😊 Curious to know more: [**My Portfolio 🌐**](https://moneshgomo.netlify.app/)
 
 
@@ -64,13 +71,11 @@
 
 
 
-###  My GitHub Stats
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=moneshgomo&bg_color=171616&color=edd9ed&line=11c04e&point=28f0ed&area=true&hide_border=true)](https://github.com/moneshgomo)
+  
+  <br>
 
-<table align="center">
-  <tr>
-    <td align="center" style="padding: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=moneshgomo&show_icons=true&theme=dark" alt="Monesh GitHub Stats" />
-    </td>
-  </tr>
-</table>
+###  My GitHub Stats
+
+ ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=moneshgomo&bg_color=171616&color=edd9ed&line=11c04e&point=28f0ed&area=true&hide_border=true)
+ 
+
