@@ -13,12 +13,10 @@
 
 
 - 🙂 Self-taught Programmer  
-- 🌱 Learning `Spring Boot` for Back-end Development.
+- 🌱 Learning `Spring Boot` for `DSA`.
 - 🗨️ Ask me about **Backend Development & Devops**  
 - 🚀 Looking for **collabrate with your Backend Development team**  
 - 💻 Backend Developer, 🚀 enhancing productivity by integrating **AI** into my workflow
-- 🧠 Passionate about **learning new technologies** and **creating impactful projects**.  
-- 🐼 Always striving to be the best version of myself.  
 - 😊 Curious to know more: [**My Portfolio 🌐**](https://moneshgomo.netlify.app/)
 
 
