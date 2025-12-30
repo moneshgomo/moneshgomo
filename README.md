@@ -1,5 +1,5 @@
 
-<h2>Hi there 👋, I'm Monesh Aspiring SWE </h2>
+<h2>Hi there 👋, I'm Monesh Passionate DSE from India </h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=moneshgomo&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
