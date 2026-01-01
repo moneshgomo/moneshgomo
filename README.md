@@ -13,7 +13,7 @@
 
 
 - 🙂 Self-taught Programmer  
-- 🌱 Learning `Spring Boot` for `DSA`.
+- 🌱 Learning `Spring Boot` and `DSA`.
 - 🗨️ Ask me about **Backend Development & Devops**  
 - 🚀 Looking for **collabrate with your Backend Development team**  
 - 💻 Backend Developer, 🚀 enhancing productivity by integrating **AI** into my workflow
