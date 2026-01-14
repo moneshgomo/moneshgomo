@@ -1,5 +1,4 @@
 
-<h2>Hi there 👋, I'm Monesh Passionate SWE from India </h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=moneshgomo&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -9,16 +8,40 @@
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="300px" alt="Coding GIF"/>
 
 
+``` yaml
 
 
+profile:
+  name: "Monesh"
+  title: "Passionate Software Engineer"
+  location: "India"
 
-- 🙂 Self-taught Programmer  
-- 🌱 Learning `Spring Boot` and `K8s`.
-- 🗨️ Ask me about **Backend Development & Devops**  
-- 🚀 Looking for **collabrate with your Backend Development team**  
-- 💻 Backend Developer, 🚀 enhancing productivity by integrating **AI** into my workflow
-- 😊 Curious to know more: [**My Portfolio 🌐**](https://moneshgomo.netlify.app/)
+  greeting: "Hi there, I'm Monesh — a passionate SWE from India"
 
+  summary:
+    - "Self-taught Programmer"
+    - "Backend Developer"
+    - "DevOps Enthusiast"
+    - "AI-driven productivity advocate"
+
+  learning:
+    - "Spring Boot"
+    - "Kubernetes (K8s)"
+
+  ask_about:
+    - "Backend Development"
+    - "DevOps"
+
+  goals:
+    - "Collaborate with backend engineering teams"
+    - "Build scalable and reliable backend systems"
+    - "Integrate AI to improve engineering productivity"
+
+  portfolio:
+    label: "My Portfolio"
+    url: "https://moneshgomo.netlify.app"
+
+```
 
 
 
