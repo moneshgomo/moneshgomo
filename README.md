@@ -22,7 +22,6 @@ profile:
     - "Self-taught Programmer"
     - "Backend Developer"
     - "DevOps Enthusiast"
-    - "AI-driven productivity advocate"
 
   learning:
     - "Spring Boot"
