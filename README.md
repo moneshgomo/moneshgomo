@@ -21,7 +21,7 @@ profile:
   summary:
     - "Self-taught Programmer"
     - "Backend Developer"
-    - "DevOps Enthusiast"
+    - "DevOps Integrations"
 
   learning:
     - "Spring Boot"
