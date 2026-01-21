@@ -8,39 +8,12 @@
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="300px" alt="Coding GIF"/>
 
 
-``` yaml
+- 😊 Self-taught Programmer
+- 🌱 Learning & implementing stuffs in `Spring Boot` and `K8s`.
+- 💬 Ask me about **Backend Development & Devops**
+- 🚀 Looking for **collaborate with your Backend Development team**
+- 💻 Backend Developer, 🚀 enhancing productivity by integrating **AI** into my workflow
 
-
-profile:
-  name: "Monesh"
-  title: "Passionate Software Engineer"
-  location: "India"
-
-  greeting: "Hi there, I'm Monesh — a passionate SWE from India"
-
-  summary:
-    - "Self-taught Programmer"
-    - "Backend Developer"
-    - "DevOps Integrations"
-
-  learning:
-    - "Spring Boot"
-    - "Kubernetes (K8s)"
-
-  ask_about:
-    - "Backend Development"
-    - "DevOps"
-
-  goals:
-    - "Collaborate with backend engineering teams"
-    - "Build scalable and reliable backend systems"
-    - "Integrate AI to improve engineering productivity"
-
-  portfolio:
-    label: "My Portfolio"
-    url: "https://moneshgomo.netlify.app"
-
-```
 
 
 
