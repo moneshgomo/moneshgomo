@@ -11,7 +11,7 @@
 - 💬 Ask me about **Backend Development & Devops**
 - 🚀 Looking for **collaborate with your Backend Development team**
 - 💻 Backend Developer, 🚀 enhancing productivity by integrating **AI** into my workflow
-- Portfolio : [moneshgomo.netlify.app](moneshgomo.netlify.app)
+- Portfolio : [moneshgomo.netlify.app](https://moneshgomo.netlify.app)
 
 ### Connect with Me
 <a href="https://www.linkedin.com/in/moneshgomo" target="_blank" rel="noopener noreferrer">
