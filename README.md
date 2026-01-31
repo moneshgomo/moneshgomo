@@ -1,8 +1,6 @@
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=moneshgomo&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+👋 Hi, I’m Monesh — A Passionate Backend & DevOps Engineer from India 
 
 <!-- <img align="right" src="https://github.com/user-attachments/assets/996a6a54-00ec-4c15-8107-b7818721657d" width="250" height="500" alt="Monesh profile" /> -->
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="300px" alt="Coding GIF"/>
@@ -13,9 +11,7 @@
 - 💬 Ask me about **Backend Development & Devops**
 - 🚀 Looking for **collaborate with your Backend Development team**
 - 💻 Backend Developer, 🚀 enhancing productivity by integrating **AI** into my workflow
-
-
-
+- Portfolio : [moneshgomo.netlify.app](moneshgomo.netlify.app)
 
 ### Connect with Me
 <a href="https://www.linkedin.com/in/moneshgomo" target="_blank" rel="noopener noreferrer">
