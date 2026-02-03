@@ -22,7 +22,7 @@
 <div style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 15px;">
   <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=py" alt="Python" width="50" height="50" />
-<img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" height="50" />
+
   <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" height="50" />
