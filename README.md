@@ -6,13 +6,14 @@
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="300px" alt="Coding GIF"/>
 
 
-- 😊 Self-taught Programmer
-- 🌱 Learning & implementing stuffs in `Spring Boot` and `K8s`.
-- 💬 Ask me about **Backend Development & Devops**
-- 🚀 Looking for **collaborate with your Backend Engineering team**
-- 💻 Backend Developer, 🚀 enhancing productivity by integrating **AI** into my workflow
-- Portfolio : [moneshgomo.netlify.app](https://moneshgomo.netlify.app)
-- Email :  [moneshprogrammer@gmail.com]()
+<h4>😊 Self-taught Programmer</h4>
+<h4>🌱 Learning & implementing stuffs in Spring Boot and K8s.</h4>
+<h4>💬 Ask me about Backend Development & DevOps</h4>
+<h4>🚀 Looking for collaborate with your Backend Engineering team</h4>
+<h4>💻 Backend Developer, 🚀 enhancing productivity by integrating AI into my workflow</h4>
+<h4>Portfolio : <a href="https://moneshgomo.netlify.app">moneshgomo.netlify.app</a></h4>
+<h4>Email : <a href="mailto:moneshprogrammer@gmail.com">moneshprogrammer@gmail.com</a></h4>
+
 
 ### Connect with Me
 <a href="https://www.linkedin.com/in/moneshgomo" target="_blank" rel="noopener noreferrer">
