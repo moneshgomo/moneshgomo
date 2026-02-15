@@ -7,7 +7,7 @@
 
 
 - 😊 Self-taught Programmer
-- 🌱 Learning & implementing stuffs in `Spring Boot` and `K8s`.
+- 🌱 Learning and implementing concepts in `Software Development` and `Container Orchestration`.
 - 💬 Ask me about **Backend Development & Devops**
 - 🚀 Looking for **collaborate with your Backend Engineering team**
 - 💻 Backend Developer, 🚀 enhancing productivity by integrating **AI** into my workflow
