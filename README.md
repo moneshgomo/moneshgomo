@@ -12,7 +12,8 @@
 - 🚀 Looking for **collaborate with your Backend Engineering team**
 - 💻 Backend Developer, 🚀 enhancing productivity by integrating **AI** into my workflow
 - Portfolio : [moneshgomo.netlify.app](https://moneshgomo.netlify.app)
-- Email :  [moneshprogrammer@gmail.com](moneshprogrammer@gmail.com) 
+- Email: <span style="color: blue;">moneshprogrammer@gmail.com</span>
+
 
 
 ### Connect with Me
