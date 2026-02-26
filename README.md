@@ -7,12 +7,11 @@
 
 
 - 😊 Self-taught Programmer
-- 🌱 Learning and implementing concepts in `Software Development` and `Container Orchestration`.
+- 🌱 Learning and implementing concepts in `Backend Development` and `DevOps`.
 - 💬 Ask me about **Backend Development & Devops**
 - 🚀 Looking for **collaborate with your Backend Engineering team**
 - 💻 Backend Developer, 🚀 enhancing productivity by integrating **AI** into my workflow
 - Portfolio : [moneshgomo.netlify.app](https://moneshgomo.netlify.app)
-- Email: <span style="color: blue;">moneshprogrammer@gmail.com</span>
 
 
 
