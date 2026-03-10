@@ -1,6 +1,6 @@
 
 
-<h3>👋 Hi, I’m Monesh — A Passionate Backend & DevOps Engineer from India </h3>
+<h3>👋 Hi, I’m Monesh — A Passionate Backend & Cloud Engineering from India </h3>
 
 <!-- <img align="right" src="https://github.com/user-attachments/assets/996a6a54-00ec-4c15-8107-b7818721657d" width="250" height="500" alt="Monesh profile" /> -->
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="300px" alt="Coding GIF"/>
