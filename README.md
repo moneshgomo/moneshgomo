@@ -20,7 +20,7 @@
 </a>
 
 
-#### Backend Development
+#### Backend Development  {{ [ P.O.C ](https://www.linkedin.com/in/moneshgomo/details/experience)  }}
 <div>
   <img src="https://skillicons.dev/icons?i=java" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=py" width="50" height="50"/>
@@ -33,7 +33,7 @@
   <img src="https://skillicons.dev/icons?i=firebase" width="50" height="50"/>
 </div>
 
-#### DevOps & Cloud
+#### DevOps & Cloud  {{ [ P.O.C ](https://www.linkedin.com/in/moneshgomo/details/experience)  }}
 <div>
   <img src="https://skillicons.dev/icons?i=git" width="50" height="50"/>
     <img src="https://skillicons.dev/icons?i=githubactions" width="50" height="50"/>
