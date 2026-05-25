@@ -11,9 +11,7 @@
 <a href="https://www.linkedin.com/in/moneshgomo" target="_blank" rel="noopener noreferrer">
   <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="50" height="50" alt="LinkedIn" />
 </a> 
-<a href="https://www.instagram.com/itz_monii_04" target="_blank" rel="noopener noreferrer">
-  <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="50" height="50" alt="LinkedIn" />
-</a>
+
 
 #### Backend Development {{ [P.O.C](https://www.linkedin.com/in/moneshgomo/details/experience) }}
 <div style="display:flex;flex-wrap:wrap;gap:10px;align-items:center;">
