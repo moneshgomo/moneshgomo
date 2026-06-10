@@ -3,15 +3,13 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="300px"/>
 
-- 🌱 Self taugh programmer 
+- 🌱 Self-taught programmer
 - 🚀 Took a school from **zero digital presence → live platform** — got their first online enquiry within 10 hrs of launch
 - ⚡ Diagnosed a **300s page load** caused by BLOB storage in MySQL, migrated to object storage → **dropped it to 6s**
-- 🐳 Running microservices on **Kubernetes** with GitHub Actions CI/CD, Trivy scanning, and Docker Buildx caching
+- 🤖 Integrating **AI into backend workflows** to move faster and ship better
 - 🔧 Currently going deep on **DSA & System Design**
 - 💻 Sole dev on production: architecture · deployment · security · client communication
 - 🌐 Portfolio: [moneshgomo.tech](https://moneshgomo.tech)
-
-
 
 ### Connect with me
 <a href="https://www.linkedin.com/in/moneshgomo">
@@ -19,7 +17,7 @@
 </a>
 
 
-### Stack
+### I code in
 <div style="display:flex;flex-wrap:wrap;gap:10px;">
   <img src="https://skillicons.dev/icons?i=java" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=py" width="50" height="50"/>
@@ -32,9 +30,13 @@
   <img src="https://skillicons.dev/icons?i=kubernetes" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=githubactions" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=linux" width="50" height="50"/>
-    <img src="https://skillicons.dev/icons?i=nginx" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=nginx" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=aws" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=terraform" width="50" height="50"/>
+</div>
+
+### Tools I use
+<div style="display:flex;flex-wrap:wrap;gap:10px;">
   <img src="https://skillicons.dev/icons?i=idea" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=postman" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=git" width="50" height="50"/>
