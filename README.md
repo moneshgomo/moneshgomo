@@ -4,9 +4,9 @@
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="300px"/>
 
 - 🌱 Self-taught programmer
-- 🚀 Took a school from **zero digital presence → live platform** — got their first online enquiry within 10 hrs of launch
+- 🚀 Took a school from **zero digital presence → live platform**  got their first online enquiry within 10 hrs of launch
 - ⚡ Diagnosed a **300s page load** caused by BLOB storage in MySQL, migrated to object storage → **dropped it to 6s**
-- 🤖 Integrating **AI into backend workflows** to move faster and ship better
+- 🤖 Integrating **AI into backend workflows** to move faster and ship better with proper code **reviews**
 - 🔧 Currently going deep on **DSA & System Design**
 - 💻 Sole dev on production: architecture · deployment · security · client communication
 - 🌐 Portfolio: [moneshgomo.tech](https://moneshgomo.tech)
