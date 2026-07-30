@@ -7,8 +7,7 @@
 - 🚀 Took a school from **zero digital presence → live platform**  got their first online enquiry within 10 hrs of launch
 - ⚡ Diagnosed a **300s page load** caused by BLOB storage in MySQL, migrated to object storage → **dropped it to 6s**
 - 🤖 Integrating **AI into backend workflows** to move faster and ship better with proper code **reviews**
-- 🔧 Currently going deep on **DSA & System Design**
-- 💻 Sole dev on production: architecture · deployment · security · client communication
+- 💻 Complete ownership on clinet app from design to production: architecture · deployment · security · client communication
 - 🌐 Portfolio: [moneshgomo.tech](https://moneshgomo.tech)
 
 ### Connect with me
