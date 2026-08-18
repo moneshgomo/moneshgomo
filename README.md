@@ -43,7 +43,3 @@
   <img width="50" height="50" src="https://img.icons8.com/fluency/48/cursor-ai.png"/>
 </div>
 
-
-
-### GitHub activity
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=moneshgomo&bg_color=171616&color=edd9ed&line=11c04e&point=28f0ed&area=true&hide_border=true)
