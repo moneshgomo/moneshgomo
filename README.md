@@ -8,7 +8,7 @@
 - ⚡ Diagnosed a **300s page load** caused by BLOB storage in MySQL, migrated to object storage → **dropped it to 6s**
 - 🤖 Integrating **AI into backend workflows** to move faster and ship better with proper code **reviews**
 - 💻 90%  ownership ( SDLC ) on client application from design to production: Designing System · deployment · Server Maintenance · client communication
-- 🌐 Portfolio: [moneshgomo.tech](https://moneshgomo.tech)
+- 🌐 Portfolio: [https://moneshgomo.netlify.app](https://moneshgomo.netlify.app)
 
 ### Connect with me
 <a href="https://www.linkedin.com/in/moneshgomo">
