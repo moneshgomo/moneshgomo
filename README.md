@@ -4,7 +4,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="300px"/>
 
 - 🌱 Self-taught programmer
-- 🚀 Took a school from **zero digital presence → live platform**  got their first online enquiry for admission within 10 hrs of launch
+- 🚀 Identified limited institutional digital presence, developed and pitched a functional prototype to secure approval, then engineered and deployed a production website, improving institutional information accessibility from 50% to 85% .
 - ⚡ Diagnosed a **300s page load** caused by BLOB storage in MySQL, migrated to object storage → **dropped it to 6s**
 - 🤖 Integrating **AI into backend workflows** to move faster and ship better with proper code **reviews**
 - 💻 90%  ownership ( SDLC ) on client application from design to production: Designing System · deployment · Server Maintenance · client communication
